@@ -5,7 +5,10 @@
 
 ## ↓ View the function & UI design detail here: 
 
-# [PDF](https://github.com/RyanStark223232/CSCI3100_MobileCloudProject/raw/main/3100_Final_Report.pdf/)
+# [PDF](https://github.com/fe7ng654123/NowHereProject/raw/main/3100_Final_Report.pdf/)
 
 ### UI preview
-![UI](https://github.com/RyanStark223232/CSCI3100_MobileCloudProject/blob/main/Screenshot.png)
+![UI](https://github.com/fe7ng654123/NowHereProject/blob/main/1.png)
+![UI](https://github.com/fe7ng654123/NowHereProject/blob/main/2.png)
+![UI](https://github.com/fe7ng654123/NowHereProject/blob/main/3.png)
+![UI](https://github.com/fe7ng654123/NowHereProject/blob/main/4.png)
